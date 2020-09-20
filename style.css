@@ -727,6 +727,8 @@ option{
 .bannerr_upper{
   display: none;
 }
+  .client_card{
+    margin-left: 15px;
 }
 @media (max-width: 375px){
   #client img {
